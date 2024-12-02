@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
-import notFound from "./assets/not_found-removebg-preview (1).png";
-import rain from "./assets/rain_with_cloud.png";
-import sun from "./assets/sun.png";
-import thunder from "./assets/thunder.png";
-import tornado from "./assets/Tornado.png";
+import notFound from "/assets/not_found-removebg-preview (1).png";
+import rain from "/assets/rain_with_cloud.png";
+import sun from "/assets/sun.png";
+import thunder from "/assets/thunder.png";
+import tornado from "/assets/Tornado.png";
 
 function App() {
 
